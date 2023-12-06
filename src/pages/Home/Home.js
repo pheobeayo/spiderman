@@ -7,6 +7,7 @@ import Stories from "../../components/stories";
 import What from "../../components/what";
 import How from "../../components/how";
 import Whatto from "../../components/whatto";
+import Subfooter from "../../components/subfooter";
 
 
 
@@ -48,6 +49,9 @@ const Home = () => {
                                 <div>
 
                                         <Footer />
+                                </div>
+                                <div>
+                                        <Subfooter/>
                                 </div>
 
 
