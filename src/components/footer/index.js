@@ -1,6 +1,3 @@
-import { FaTwitter } from "react-icons/fa";
-import { SiDiscord } from "react-icons/si";
-import { HiOutlineMail } from "react-icons/hi";
 import logolift from "../../assets/logolift.svg";
 
 function Footer() {
@@ -45,15 +42,7 @@ function Footer() {
 
 
                 </div>
-                <div>
-                    <div className=" w-full h-px border border-white"></div>
-                    <div className="flex flex-row cursor-pointer space-x-5 text-white">
-                        <FaTwitter />
-                        <SiDiscord />
-                        <HiOutlineMail />
-                        <p className="text-gray-50 text-[10px] md:text-[10px] font-semibold">Política de Privacidad <span>Términos y Condiciones</span>Código de Conducta </p>
-                    </div>
-                </div>
+                
             </div>
         </div>
     );
