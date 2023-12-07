@@ -17,26 +17,26 @@ function Footer() {
                     </div>
                     <div className="flex flex-row gap-[100px]">
                         <div className="pt-[20px] sm:pt-0 flex flex-col gap-7">
-                            <p className="text-gray-50 text-[20px] md:text-[20px] font-semibold">Empresa</p>
-                            <p className="text-gray-50 text-[10px] md:text-[10px] font-normal">Sobre Nosotros</p>
-                            <p className="text-gray-50 text-[10px] md:text-[10px] font-normal">Soluciones</p>
-                            <p className="text-gray-50 text-[10px] md:text-[10px] font-normal">Insights</p>
+                            <p className="text-gray-50 text-[20px] md:text-[20px] font-semibold mt-4">Empresa</p>
+                            <p className="text-gray-50 text-[15px] md:text-[15px] font-normal">Sobre Nosotros</p>
+                            <p className="text-gray-50 text-[15px] md:text-[15px] font-normal">Soluciones</p>
+                            <p className="text-gray-50 text-[15px] md:text-[15px] font-normal">Insights</p>
 
                         </div>
 
                         <div className="pt-[20px] sm:pt-0 flex flex-col gap-7">
-                            <p className="text-gray-50 text-[20px] md:text-[20px] font-semibold">Categorías</p>
-                            <p className="text-gray-50 text-[10px] md:text-[10px] font-normal">Contratar Talento</p>
-                            <p className="text-gray-50 text-[10px] md:text-[10px] font-normal">Desarrollar Talento</p>
-                            <p className="text-gray-50 text-[10px] md:text-[10px] font-normal">Herramientas de Gamificación</p>
+                            <p className="text-gray-50 text-[20px] md:text-[20px] font-semibold ">Categorías</p>
+                            <p className="text-gray-50 text-[15px] md:text-[15px] font-normal">Contratar Talento</p>
+                            <p className="text-gray-50 text-[15px] md:text-[15px] font-normal">Desarrollar Talento</p>
+                            <p className="text-gray-50 text-[15px] md:text-[15px] font-normal">Herramientas de Gamificación</p>
 
                         </div>
                     </div>
 
                     <div className="pt-[20px] sm:pt-0 flex flex-col gap-7">
-                        <p className="text-gray-50 text-[20px] md:text-[20px] font-semibold">Competencias Digitales </p>
-                        <p className="text-gray-50 text-[10px] md:text-[10px] font-normal">Competencias Comerciales</p>
-                        <p className="text-gray-50 text-[10px] md:text-[10px] font-normal">Liderazgo</p>
+                        <p className="text-gray-50 text-[15px] md:text-[15px] font-normal mt-12">Competencias Digitales </p>
+                        <p className="text-gray-50 text-[15px] md:text-[15px] font-normal">Competencias Comerciales</p>
+                        <p className="text-gray-50 text-[15px] md:text-[15px] font-normal">Liderazgo</p>
 
                     </div>
 

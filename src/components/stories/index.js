@@ -13,7 +13,7 @@ const Stories = () => {
 
             <div className="container mx-auto px-4 sm:px-[80px] py-[100px]">
 
-                <h2 className="text-black text-3xl font-bold leading-10 mx-96 px-12">
+                <h2 className="text-black text-3xl font-bold leading-10 mx-96 px-16">
                 Success Stories
                 </h2>
                 <h2 className="text-black text-xl font-light mx-64">

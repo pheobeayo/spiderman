@@ -15,7 +15,7 @@ const Why = () => {
 
             <div className="container mx-auto px-4 sm:px-[80px] py-[100px]">
 
-                <h2 className="text-black text-3xl  font-bold leading-10 mx-80 px-16">
+                <h2 className="text-black text-3xl  font-bold leading-10 mx-96">
                     Why SubscribeStar.com
                     
                 </h2>
