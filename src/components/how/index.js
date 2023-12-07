@@ -2,7 +2,8 @@ import React from 'react';
 import signup from "../../assets/signup.svg";
 import post from "../../assets/post.svg";
 import get from "../../assets/get.svg";
-import BackgroundImage from '../backgroundimage';
+
+
 
 
 
@@ -12,11 +13,11 @@ const How = () => {
 
 
     return (
-        <div>
-            <BackgroundImage/>
+        <div >
+           
             <div className="container mx-auto px-4 sm:px-[80px] py-[100px]">
 
-                <h2 className="text-black text-3xl  font-bold leading-10 mx-96 px-16">
+                <h2 className="text-black text-3xl  font-bold leading-10 mx-96 px-20">
                     How to start?
                 </h2>
                 <h3 className="text-black text-xl  font-light mx-64">

@@ -46,7 +46,7 @@ const Whatto = () => {
                         
                            
                             <p className="font-normal text-justify text-black text-lg mx-4">
-                            elaborate and 
+                            Elaborate and 
                             <br></br>comprehensive tools
 
 
